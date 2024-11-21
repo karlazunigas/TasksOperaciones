@@ -1,0 +1,14 @@
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\TasksOperaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\TasksOperaciones.AssemblyInfoInputs.cache
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\TasksOperaciones.AssemblyInfo.cs
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\TasksOperaciones.csproj.CoreCompileInputs.cache
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\bin\Debug\net8.0\TasksOperaciones.exe
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\bin\Debug\net8.0\TasksOperaciones.deps.json
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\bin\Debug\net8.0\TasksOperaciones.runtimeconfig.json
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\bin\Debug\net8.0\TasksOperaciones.dll
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\bin\Debug\net8.0\TasksOperaciones.pdb
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\TasksOperaciones.dll
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\refint\TasksOperaciones.dll
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\TasksOperaciones.pdb
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\TasksOperaciones.genruntimeconfig.cache
+C:\Users\Karla Fernanda\source\repos\TasksOperaciones\obj\Debug\net8.0\ref\TasksOperaciones.dll
